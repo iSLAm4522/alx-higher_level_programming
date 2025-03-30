@@ -48,3 +48,6 @@
 | 11. a ^ b | [11-pow.py](./11-pow.py) |
 | 12. Fizz Buzz | [12-fizzbuzz.py](./12-fizzbuzz.py) |
 | 13. Insert in sorted linked list | [13-insert_number.c](./13-insert_number.c), [lists.h](./lists.h) |
+| 14. Smile in the mirror | [100-print_tebahpla.py](./100-print_tebahpla.py) |
+| 15. Remove at position | [101-remove_char_at.py](./101-remove_char_at.py) |
+| 16. ByteCode -> [byteCode](./byteCode) | [102-magic_calculation.py](./102-magic_calculation.py) |
