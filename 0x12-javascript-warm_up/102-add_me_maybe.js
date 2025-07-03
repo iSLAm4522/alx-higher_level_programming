@@ -1,8 +1,8 @@
 #!/usr/bin/node
 
-function addMeMaybec (value, callbackfun) {
+function addMeMaybe(value, callbackfun) {
   value++;
   callbackfun(value);
 }
 
-module.exports = { addMeMaybec };
+module.exports = { addMeMaybe };
