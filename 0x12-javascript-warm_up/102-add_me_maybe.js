@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-function addMeMaybe(value, callbackfun) {
+function addMeMaybe (value, callbackfun) {
   value++;
   callbackfun(value);
 }
